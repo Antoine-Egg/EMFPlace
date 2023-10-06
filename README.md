@@ -2,7 +2,7 @@
 
 EMF/Place est une application web inspirée de r/place, qui permet aux utilisateurs de collaborer pour créer une toile pixelisée en temps réel.
 
-![Capture d'écran de EMF/Place](https://eggera.emf-informatique.ch/emfplace.png)
+![Capture d'écran de EMF/Place](https://eggera.emf-informatique.ch/emfplace1.png)
 
 ## Fonctionnalités
 
